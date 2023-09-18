@@ -151,9 +151,7 @@ menu__link {
     width: 510px;
     font-size: 72px;
     font-weight: 700;
-    line-height: 97px;
-    
-   
+    line-height: 97px; 
 }
 
 .preview__text {
@@ -259,9 +257,6 @@ text-align: left;
 .tours__feature{
     margin-bottom: 28px;
     margin-top: 13px;
-}
-.tours__info {
-    margin-bottom: 13px;
 }
  
 .news {
