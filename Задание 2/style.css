@@ -253,6 +253,7 @@ text-align: left;
 .tours__feature-text {
     color: #666666;
     position: relative;
+    display: inline-block;
 }
 
 .tours__feature{
@@ -313,7 +314,7 @@ text-align: left;
     text-align: center;
 
 }
-.paginator__display, .paginator__list, .paginator__item {
+.paginator__display, .paginator__list{
     display: inline-block;
     vertical-align: middle;
 } 
@@ -338,6 +339,7 @@ text-align: left;
     line-height: 32px;
     transition: .4s;
     text-decoration: none;
+    position: relative;
 }
 
 
