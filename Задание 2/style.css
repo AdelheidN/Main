@@ -54,6 +54,7 @@ button {
 
 .wrapper{
     overflow: hidden;
+    min-width: 1200px;
 }
 
 .wrapper {
