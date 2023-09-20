@@ -72,7 +72,7 @@ button {
     top: 37px;
 }
 
-.logo__link-footer {
+.foter .logo__link {
     left: 0;
     bottom: 37px;
 }
@@ -84,13 +84,13 @@ button {
     top: 48px;
 }
 
-.menu-footer{
+/* .menu-footer{
     left: 50%;
     transform: translateX(-149%);
     bottom: 48px;
 }
-
-.logo__icon ,.logo__link-footer , .menu , .menu-footer, .contacts, .contacts-footer{
+ */
+.logo__icon , .menu , .contacts, {
     position: absolute;
 }
 
@@ -118,12 +118,12 @@ menu__link {
     font-style: normal;
     text-align: right;
 }
-.contacts-footer {
+/* .contacts-footer {
     right: 0;
     bottom: 31px;
     font-style: normal;
     text-align: right;
-}
+} */
 
 .contacts__tel {
     text-decoration: none;
@@ -134,7 +134,7 @@ menu__link {
 .contacts__graph {
     font-size: 13px;
     text-decoration: underline;
-    color: #DA0100;
+    color: #fff;
    
 }
 
