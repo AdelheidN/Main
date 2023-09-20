@@ -350,19 +350,16 @@ text-align: left;
     content: "";
     display: inline-block;
     vertical-align: top;
-    width: 488px;
+    width: 647px;
     height: 502px;
-    background: url("./img/gates.png") center center / cover no-repeat;
+    margin-left: -140px;
+    margin-bottom: 101px ;
+    margin-top: 20px;
+    background: url("./img/mountains.png") center center / cover no-repeat;
 }
 
 .about__content-desc {
-    background: #656565;
     padding: 80px 90px;
-    display: inline-block;
-    vertical-align: top;
-    width: 780px;
-    margin-top: 97px;
-    margin-left: 352px;
 }
 
 .about__title {
