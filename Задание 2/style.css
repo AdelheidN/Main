@@ -589,6 +589,11 @@ text-align: left;
     
 }
 
+.service__inner {
+    display: flex;
+    flex-direction: column;
+}
+
 .service__title {
     font-weight: 700;
     font-size: 36px;
