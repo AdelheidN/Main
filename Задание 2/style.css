@@ -543,6 +543,7 @@ button {
     flex-direction: column;
     padding-bottom: 21px;
     background: #9a9a9a url("./img/services.png") center top no-repeat;
+    background-size: cover;
 }
 
 .top-line__container {
