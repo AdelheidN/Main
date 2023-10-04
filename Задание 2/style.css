@@ -862,7 +862,13 @@ button {
     cursor: pointer;
 }
 
-.controls__checkbox:checked , .controls__tag {
+.controls__tag {
+    background: #e7e7e7;
+    padding: 8px 16px;
+    border-radius: 50px;
+}
+
+.controls__checkbox:checked ~ .controls__tag{
     background: #B9EAE4 ;
     padding: 8px 16px;
     border-radius: 50px;
